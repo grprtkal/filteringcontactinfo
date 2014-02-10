@@ -1,0 +1,38 @@
+*{
+	margin: 0 auto;
+	font-family:  "HelveticaNeue-Light", Helvetica, Arial,
+             sans-serif;
+}
+
+#formdiv, #from, #date{
+	margin: 10px; 
+}
+
+th{
+	text-align: center; 
+	font-weight: bold;
+	padding-left: 6px;
+	padding-right: 20px;
+}
+
+#head{
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+
+table{
+	 border-collapse: collapse;
+}
+
+td{
+	padding-left: 30px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-align: left;
+	border: 1px solid black;
+}
+
+#displaydata{
+	margin-left: 10px;
+}
